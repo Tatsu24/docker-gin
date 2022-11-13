@@ -1,4 +1,5 @@
-module github.com/hrs-o/docker-go
+// module github.com/hrs-o/docker-go
+module src
 
 go 1.19
 
